@@ -1,4 +1,4 @@
-package ru.qa.stepdefs;
+package ru.qa.softLabPages;
 
 import com.microsoft.playwright.*;
 import io.cucumber.java.ru.*;

@@ -1,8 +1,8 @@
-package ru.qa.stepdefs;
+package ru.qa.softLabPages;
 
 import io.cucumber.java.ru.*;
 
-import static ru.qa.stepdefs.MainPage.page;
+import static ru.qa.softLabPages.MainPage.page;
 
 public class AutomatedBankingSystemsPage {
     @И("я вижу название страницы 'Автоматизированные банковские системы АБС'")

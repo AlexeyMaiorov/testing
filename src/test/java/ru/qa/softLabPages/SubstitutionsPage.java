@@ -1,9 +1,9 @@
-package ru.qa.stepdefs;
+package ru.qa.softLabPages;
 
 import io.cucumber.java.ru.*;
 
 import static org.junit.Assert.assertEquals;
-import static ru.qa.stepdefs.MainPage.page;
+import static ru.qa.softLabPages.MainPage.page;
 
 public class SubstitutionsPage {
     @И("я проверяю, что шапка страницы присутствует")

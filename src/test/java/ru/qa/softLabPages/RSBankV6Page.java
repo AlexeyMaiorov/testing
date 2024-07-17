@@ -1,9 +1,8 @@
-package ru.qa.stepdefs;
+package ru.qa.softLabPages;
 
-import com.microsoft.playwright.*;
 import io.cucumber.java.ru.*;
 
-import static ru.qa.stepdefs.MainPage.page;
+import static ru.qa.softLabPages.MainPage.page;
 
 public class RSBankV6Page {
     @И("я вижу название страницы 'Автоматизированная банковская система для многофилиальных банков RS‑Bank V.6'")
